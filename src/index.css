@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* background-image: url('https://images.pexels.com/photos/1884112/pexels-photo-1884112.jpeg?cs=srgb&dl=pexels-brett-sayles-1884112.jpg&fm=jpg'); */
+  /* background: rgb(10,20,20); */
+/* background: linear-gradient(180deg, rgba(10,20,20,1) 13%, rgba(251,251,244,1) 100%); */
 }
 
 code {
